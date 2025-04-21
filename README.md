@@ -1,12 +1,6 @@
-# Email Summarizer and Responder
-
-This project demonstrates the use of OpenAI's GPT-4o-mini model to generate mock emails, summarize them, and propose responses. The emails are created in a random language (English, Spanish, or Japanese), summarized in English, and then a response is proposed in the original language.
-
 ## Features
 
-- Generates mock emails in English, Spanish, or Japanese.
-- Summarizes emails in English.
-- Proposes responses in the original language of the email.
+This project demonstrates the use of OpenAI's GPT-4o-mini model to generate mock emails, summarize them, and propose responses. The emails are created in a random language (English, Spanish, or Japanese), summarized in English, and then a response is proposed in the original language.
 
 ## Prerequisites
 
