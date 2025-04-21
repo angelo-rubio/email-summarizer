@@ -36,12 +36,12 @@ Open the email_summarizer.ipynb notebook in Jupyter or any compatible IDE (e.g.,
 
 Run the cells in sequence:
 
-The first cell imports the required libraries and loads the API key.
-The second cell validates the API key.
-The third cell initializes the OpenAI client.
-The fourth cell generates a mock email.
-The fifth cell summarizes the email and proposes a response.
-View the generated email, its summary, and the proposed response in the notebook's output.
+- The first cell imports the required libraries and loads the API key.
+- The second cell validates the API key.
+- The third cell initializes the OpenAI client.
+- The fourth cell generates a mock email.
+- The fifth cell summarizes the email and proposes a response.
+- View the generated email, its summary, and the proposed response in the notebook's output.
 
 
 ### Example Output
